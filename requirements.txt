@@ -1,0 +1,9 @@
+insightface
+opencv-python
+numpy
+scipy
+scikit-learn
+networkx
+tqdm
+matplotlib
+pyyaml
