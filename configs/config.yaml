@@ -8,7 +8,7 @@ paths:
 model:
   insightface_name: "buffalo_l"   # ex: buffalo_l (ArcFace r100-ibn), antelopev2, etc.
   ctx_id: 0                       # GPU: 0 ; CPU: -1
-  det_size: [640, 640]            # taille d'entrée du détecteur
+  det_size: [640, 640]            # taille d'entrée du détecteur ex : [640, 640]
 
 dev_eval:
   dev_ratio: 0.2                  # 20% des identités pour validation
